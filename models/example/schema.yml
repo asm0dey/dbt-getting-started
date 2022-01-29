@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: user
-    description: any post
+    description: "Same as customer, but with another name"
     columns:
       - name: id
         description: "The primary key for this table"
